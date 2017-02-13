@@ -1,0 +1,13 @@
+base-devel
+dhclient
+dosfstools
+exfat-utils
+f2fs-tools
+ntfs-3g
+ntp
+refind-efi
+sudo
+testdisk
+wget
+wireless_tools
+wpa_actiond
